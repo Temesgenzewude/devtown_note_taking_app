@@ -92,6 +92,9 @@ To tag a note:
     Enter tags separated by commas in the "Tags" input field in the Note Editor.
     Save the note to apply the tags.
 
+
+    
+
 Searching and Filtering
 To search for a specific note:
     Type your search query in the search bar at the top of the Notes List.
